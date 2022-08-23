@@ -2,12 +2,12 @@
 layout: post
 read_time: true
 show_date: true
-title: "Starting the adventure"
+title: "Web Scraping"
 date: 2021-03-24
 img: posts/20210324/starting_adventure.jpg
-tags: [general blogging, thoughts, life]
-author: Armando Maynez
-description: "Midlife career change: a disaster or an opportunity?"
+tags: [general blogging, scrap, web]
+author: Alp Aygün
+description: "Web scraping is the process of using bots to extract content and data from a website."
 ---
 
 ## What is web scraping?
