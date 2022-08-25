@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Web Scraping"
 date: 2021-03-24
-img: posts/20210324/webScrap.png
+img: posts/20210324/webScrap.jpg
 tags: [general blogging, scrap, web]
 author: Alp Aygün
 description: "Web scraping is the process of using bots to extract content and data from a website."
